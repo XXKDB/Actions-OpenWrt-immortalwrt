@@ -1,0 +1,69 @@
+CONFIG_TARGET_ramips=y
+CONFIG_TARGET_ramips_mt7621=y
+CONFIG_TARGET_ramips_mt7621_DEVICE_xiaomi_mi-router-4a-gigabit=y
+CONFIG_LUCI_LANG_zh_Hans=y
+# CONFIG_PACKAGE_TURBOACC_INCLUDE_BBR_CCA is not set
+# CONFIG_PACKAGE_TURBOACC_INCLUDE_OFFLOADING is not set
+# CONFIG_PACKAGE_boost is not set
+# CONFIG_PACKAGE_coreutils-base64 is not set
+# CONFIG_PACKAGE_ddns-scripts is not set
+# CONFIG_PACKAGE_ddns-scripts-services is not set
+# CONFIG_PACKAGE_dns2socks is not set
+# CONFIG_PACKAGE_etherwake is not set
+# CONFIG_PACKAGE_ip-full is not set
+# CONFIG_PACKAGE_ipset is not set
+# CONFIG_PACKAGE_ipt2socks is not set
+# CONFIG_PACKAGE_iptables-mod-tproxy is not set
+# CONFIG_PACKAGE_kmod-ip6tables is not set
+# CONFIG_PACKAGE_kmod-ipt-offload is not set
+# CONFIG_PACKAGE_kmod-ipt-tproxy is not set
+# CONFIG_PACKAGE_kmod-nf-flow is not set
+# CONFIG_PACKAGE_kmod-nf-ipt6 is not set
+# CONFIG_PACKAGE_kmod-nf-reject6 is not set
+# CONFIG_PACKAGE_kmod-tcp-bbr is not set
+# CONFIG_PACKAGE_libbpf is not set
+# CONFIG_PACKAGE_libelf is not set
+# CONFIG_PACKAGE_libev is not set
+# CONFIG_PACKAGE_libipset is not set
+# CONFIG_PACKAGE_libmbedtls is not set
+# CONFIG_PACKAGE_libsodium is not set
+# CONFIG_PACKAGE_libstdcpp is not set
+# CONFIG_PACKAGE_libuci-lua is not set
+# CONFIG_PACKAGE_libudns is not set
+# CONFIG_PACKAGE_luci-app-accesscontrol is not set
+# CONFIG_PACKAGE_luci-app-adguardhome_INCLUDE_binary is not set
+# CONFIG_PACKAGE_luci-app-arpbind is not set
+# CONFIG_PACKAGE_luci-app-ddns is not set
+# CONFIG_PACKAGE_luci-app-diskman_INCLUDE_btrfs_progs is not set
+# CONFIG_PACKAGE_luci-app-diskman_INCLUDE_lsblk is not set
+# CONFIG_PACKAGE_luci-app-filetransfer is not set
+# CONFIG_PACKAGE_luci-app-rclone_INCLUDE_fuse-utils is not set
+# CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
+# CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-webui is not set
+# CONFIG_PACKAGE_luci-app-ssr-plus is not set
+# CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Libev_Client is not set
+# CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Shadowsocks_Libev_Client is not set
+# CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Simple_Obfs is not set
+# CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan is not set
+# CONFIG_PACKAGE_luci-app-turboacc is not set
+# CONFIG_PACKAGE_luci-app-vlmcsd is not set
+# CONFIG_PACKAGE_luci-app-wol is not set
+CONFIG_PACKAGE_luci-i18n-base-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-firewall-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-opkg-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-ramfree-zh-cn=y
+# CONFIG_PACKAGE_microsocks is not set
+# CONFIG_PACKAGE_openssl-util is not set
+# CONFIG_PACKAGE_pdnsd-alt is not set
+# CONFIG_PACKAGE_resolveip is not set
+# CONFIG_PACKAGE_shadowsocks-libev-config is not set
+# CONFIG_PACKAGE_shadowsocks-libev-ss-local is not set
+# CONFIG_PACKAGE_shadowsocks-libev-ss-redir is not set
+# CONFIG_PACKAGE_shadowsocksr-libev-ssr-check is not set
+# CONFIG_PACKAGE_shadowsocksr-libev-ssr-local is not set
+# CONFIG_PACKAGE_shadowsocksr-libev-ssr-redir is not set
+# CONFIG_PACKAGE_simple-obfs-client is not set
+# CONFIG_PACKAGE_tcping is not set
+# CONFIG_PACKAGE_trojan is not set
+# CONFIG_PACKAGE_vlmcsd is not set
+# CONFIG_TARGET_ROOTFS_INITRAMFS is not set
